@@ -9,7 +9,7 @@ using namespace System;
 
 void Ingreso(int *cap)
 {
-	cout << "Bienvienido al programa de prueba de ENCUESTAFA" << endl;
+	cout << "Bienvienido al programa de prueba de ENCUESTAFA S.A." << endl;
 	
 	do
 	{
